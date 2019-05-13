@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Executando o Projeto
 
-Para executar o projeto basta baixar todos os arquivos que estão nesse repositório, logo após no terminal da sua máquina ir até o diretório do projeto e rodar o `npm install`, após esse passo em um navegador entrar na URL `http://localhost:4200/`, foi feito o deploy do projeto para o FireBase `https://mjvdemoshop.firebaseapp.com/` e o banco de dados do mesmo está alocado lá, não há a necessidade de popular o banco de dados.
+Para executar o projeto basta baixar todos os arquivos que estão nesse repositório, logo após no terminal da sua máquina ir até o diretório do projeto e rodar o `npm install`, após esse passo rodar no temrinal no mesmo diretório o comando `ng serve` e em um navegador entrar na URL `http://localhost:4200/`, foi feito o deploy do projeto para o FireBase `https://mjvdemoshop.firebaseapp.com/` e o banco de dados do mesmo está alocado lá, não há a necessidade de popular o banco de dados.
 
 ## Testando a Aplicação
 
