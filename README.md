@@ -12,7 +12,7 @@ Para executar o projeto basta baixar todos os arquivos que estão nesse reposit�
 
 ## Testando a Aplicação
 
-A Aplicação foi inteira desenvolvida com o framework Angular 7.3.6, não foi criado nenhuma restrição, pois assim ficaria mais facil de realizar, os testes, para poder testar as funcionalidades de ADM, basta logar com uma conta Google. 
+A Aplicação foi inteira desenvolvida com o framework Angular 7.3.6, não foi criado nenhuma restrição, pois assim ficaria mais facil de realizar, os testes, para poder testar as funcionalidades de ADM, basta logar com uma conta Google, após Logar aguardar redirecionamento para a página inicial onde se encontra os produtos, caso o teste seja realizado por um dispositivo mobile quando clicar em "Entrar", clicar novamente no botão de menu Hamburguer. 
 
 ## Funcionalidades
 
