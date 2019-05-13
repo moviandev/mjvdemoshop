@@ -1,0 +1,17 @@
+
+
+<div class="row">
+  <ng-container *ngFor="let p of product$ | async; let i = index">
+      <div class="col">
+        <div  class="card" style="width: 15rem;">
+          <img [src]="p.imageUrl" class="card-img-top" [alt]="p.title">
+          <div class="card-body">
+            <h5 class="card-title">{{ p.title }}</h5>
+            <p class="card-text">{{ p.price | currency:'BRL':true }}</p>
+            <button (click)="addToCart(product$)" class="btn btn-primary">Adicionar ao Carrinho</button>
+          </div>
+        </div>
+      </div>
+      <div *ngIf="(i + 1) % 2 === 0" class="w-100"></div>
+  </ng-container>
+</div>
