@@ -16,13 +16,14 @@ A Aplicação foi inteira desenvolvida com o framework Angular 7.3.6, não foi c
 
 ## Funcionalidades
 
-1 - Lista de Produtos (Vitrine), a qual está na home;
-2 - Campo de busca na página de gerenciamento de produtos;
-3 - Login, mas por quesitos de praticidade usei a autenticação do Google;
-4 - Lista de produtos (administrativo);
-5 - Edição de Produtos.
+1. Lista de Produtos (Vitrine), a qual está na home;
+2. Campo de busca na página de gerenciamento de produtos;
+3. Login, mas por quesitos de praticidade usei a autenticação do Google;
+4. Lista de produtos (administrativo);
+5. Edição de Produtos.
 
 ## Ferramentas 
 
-1 - Firebase;
-2 - Lorempixel `http://lorempixel.com/`.
+
+1. Firebase;
+2. Lorempixel `http://lorempixel.com/`.
